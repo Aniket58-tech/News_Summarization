@@ -1,0 +1,7 @@
+kagglehub
+streamlit
+scikit-learn
+numpy
+nltk
+joblib
+pandas
